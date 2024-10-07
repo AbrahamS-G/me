@@ -13,11 +13,8 @@ header,footer{
     text-decoration: underline;
 }
 footer{
-    margin-top: 11vh;
+    margin-top: 15vh;
     font-size: 20px;
-}
-main{
-    min-height: 87vh;
 }
 section{
     margin: auto;
