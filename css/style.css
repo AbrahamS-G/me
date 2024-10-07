@@ -16,7 +16,7 @@ footer{
     font-size: 20px;
 }
 main{
-    height: 84vh;
+    min-height: 84vh;
 }
 section{
     margin: auto;
